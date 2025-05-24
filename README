@@ -1,0 +1,40 @@
+# 📊 Dio Investimentos
+
+Este repositório contém um descrição sobre uma planilha em Excel desenvolvida para ajudar no controle de investimentos em fundos imobiliários. A planilha permite registrar aportes, simular estimativas de quanto a pessoa teria daqui a 5, 10, 20 ou 30 anos, taxa de retorno, patrimônio, entre outros.
+
+## 📁 Conteúdo
+
+- `Dio_invesimentos.xlsx`: arquivo principal com as abas:
+  - **APP**: visão geral dos investimentos e estimativas.
+  - **Planilha2**: Onde temos as qualificações dos fundos relacionados ao perfil do investidor, como conservador, moderado ou agressivo.
+  
+## 📌 Funcionalidades
+
+- No primeiro qaudro temos configurações, onde temos um campo onde podemos colocar o salário da pessoa
+- A expectativa de rendimento da carteira
+- E a quantidade em percentual de aporte da pessoa, a princípio este % está configurado em 30% porém pode ser modificado conforme as possibilidades da pessoa
+- Investimento mensal temos um campo para aplicar a quantidade livre do valor investido e todo o restante abaixo modifica conforme o valor aplicado neste campo
+- Nos campos seguintes podemos mudar e simular a quantidade de tempo e até o valor da rentabilidade para sabermos quanto teremos com esses números específicos
+- Abaixo temos os cenários em 5, 10, 20 e 30 anos
+- A seguir temos os tipos de FIIs que compõe a carteira de acordo com cada perfil de investidor
+- E, por último, um gráfico onde mostramos cada parte de acordo com o perfil escolhido
+
+
+## ✅ Como usar
+
+1. Baixe o arquivo `Dio_investimentos.xlsx`
+2. Preencha os campos com suas informações reais
+3. Consulte as estimativas e valores que teria em cada faixa de tempo e assim ter uma noção sobre a sua evolução financeira
+
+## 🔒 Observações
+
+- A planilha foi criada com fórmulas compatíveis com Excel 2013 ou superior.
+- Nenhum dado pessoal é armazenado neste repositório.
+
+## 📬 Contato
+
+Caso tenha dúvidas ou sugestões, sinta-se à vontade em enviar uma mensagem.
+
+---
+
+© 2025 - Desenvolvido por Wallace Araujo
